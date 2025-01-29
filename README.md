@@ -5,7 +5,7 @@ This is autoinstall GenieACS
 
 Usage
 apt install git curl -y
-git clone https://github.com/alijayanet/genieacs
+git clone https://github.com/sahabatmandiri/Acs-ku.git
 cd genieacs
 chmod +x install.sh && chmod +x darkmode.sh
 INSTALL GENIEACS DARK MODE v@1.2.13
