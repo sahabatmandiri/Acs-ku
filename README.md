@@ -12,12 +12,7 @@ cd genieacs
 
 chmod +x install.sh
 
-
-bash darkmode.sh
-
-
 bash install.sh
-
 
 #=== Script update GenieACS ====#
 
